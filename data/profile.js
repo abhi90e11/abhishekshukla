@@ -1,18 +1,18 @@
 const profileData = {
     "title": "Profile",
-    "name": "Nagendra Chaudhary",
+    "name": "Abhishek Shukla",
     "sub_title": "B. Tech undergraduate (Computer Science and Engineering)",
     "about": {
         "intro": "I am a creative , disciplined , dedicated tech- savvy who likes to engage with new technologies which are combinations of software and electronics like Internet of Things , Robotics , AI and Computer Systems. I have reasonable knowledge in Internet of Things . I have also huge knowledge in Programming, Data Structures and Algorithms. I am also interesting in web development in javascripts , react JS , mysql etc. Due to few of personal interest I used to do some online programming on websites like freeCodeCamp,Hacker Earth etc. I mostly used to stick with internet and computer systems.For refreshment you see me playing with kids,watching web/TV series,playing mobile games.",
         "contact": {
-             "email": "nagendrachaudhary2016@gmail.com",
-            "phone": "+917060196036",
+             "email": "abhishekshukla9011@gmail.com",
+            "phone": "+919012686857",
             "address": "562, T.R Muniswamappa Building,1st Main 5th cross ,BENGALURU ,KARNATAKA-560066",
-            "portfolio": "https://github.com/nagraj0308"
+            "portfolio": "https://github.com/abhi90e11"
         }
     },
     "links": [
-        { "title": "GitHub", "src": "https://github.com/nagraj0308" },
+        { "title": "GitHub", "src": "https://github.com/abhi90e11" },
         { "title": "freeCodeCamp", "src": "https://www.freecodecamp.org/nagraj0308" },
         { "title": "LinkedIn", "src": "https://www.linkedin.com/in/nagendra-chaudhary-280813b7/" }
     ],
@@ -20,17 +20,17 @@ const profileData = {
         {
             "alma": "Faculty of Engineering and Technology, GKV, Haridwar",
             "duration": "2014 - 2018", "std": "B. Tech (CSE)",
-            "score": "66.25%"
+            "score": "68.20%"
         },
         {
-            "alma": "Sarvoday Inter College, Belahi, Deoria, Uttar Pradesh",
+            "alma": "St. Francis Xaviers Inter College, Kanpur, Uttar Pradesh",
             "duration": "2011 - 2013", "std": "Class XI - XII",
-            "score": "77.40%"
+            "score": "89.00%"
         },
         {
-            "alma": "C R T S V M I C K S Bazar, Maharajganj, Uttar Pradesh",
+            "alma": "PT D D U S D Vidyalaya, Kanpur, Uttar Pradesh",
             "duration": "2006 - 2011", "std": "Class VI - X",
-            "score": "76.00%"
+            "score": "79.50%"
         }
     ],
     "skills": [
