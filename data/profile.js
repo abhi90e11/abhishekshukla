@@ -8,7 +8,7 @@ const profileData = {
              "email": "abhishekshukla9011@gmail.com",
             "phone": "+919012686857",
             "address": "562, T.R Muniswamappa Building,1st Main 5th cross ,BENGALURU ,KARNATAKA-560066",
-            "portfolio": "https://github.com/abhi90e11"
+            "portfolio": "https://abhi90e11.github.io/abhishekshukla/"
         }
     },
     "links": [
