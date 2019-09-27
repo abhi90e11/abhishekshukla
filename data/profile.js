@@ -14,7 +14,7 @@ const profileData = {
     "links": [
         { "title": "GitHub", "src": "https://github.com/abhi90e11" },
         { "title": "freeCodeCamp", "src": "https://www.freecodecamp.org/nagraj0308" },
-        { "title": "LinkedIn", "src": "https://www.linkedin.com/in/nagendra-chaudhary-280813b7/" }
+        { "title": "LinkedIn", "src": "https://www.linkedin.com/in/abhishek-shukla-618019b8/" }
     ],
     "education": [
         {
@@ -38,7 +38,7 @@ const profileData = {
             "graph": "false",
             "category": "Programming Languages",
             "topics": [
-                "C", "Arduino","Python","Unix Shell","Java","PHP"
+                "C", "Arduino","Python","C++","Java"
             ]
         },
         {
@@ -61,29 +61,18 @@ const profileData = {
         	{
            	 "title": "IOT based Robot Car",
             	"duration": "January , 2018 - April 2018",
-		"link": "https://github.com/nagraj0308/majorproject.git",			
+		"link": "https://github.com/abhi90e11/major-project.git",			
             	"desc": "A IOT based Robot Car which can be controlled Google Assistant and Web Pages"
         	},
 		{
-            	"title": "Home Automation using IOT",
-		"duration": "September, 2017 - October,2017",
-            	"link": "https://github.com/nagraj0308/ReteFacebookTwoLight.git",
-            	"desc": "Controlling Home appliances via FB Messenger, Ubuntu Terminal,Web Browser "
-        	}
-		,
-		{
-           	 "title": "Controlling appliances using Google Assistent",
-            	"duration": "October, 2017 - November, 2017",
-            	"link": "https://github.com/nagraj0308/AdafruitCode.git",
-            	"desc": "A project to controlling things By Google Assistent based on IFTTT statements"       
-		}
+            	
     ],
     "experiences": [
 	{
-            "desc": "<b>Head Organizer </b> of a event at  <a target='_blank' href='https://www.jnanagni.in'> <strong> Jnanagni'17 </strong> </a>",
-            "date": "March 2017",
+            "desc": "<b>Head Organizer </b> of a event at  <a target='_blank' href='https://www.jnanagni.in'> <strong> Jnanagni'18 </strong> </a>",
+            "date": "March 2018",
             "details": [
-                "Organised the event Extempore and Debate.",
+                "Organised the event GPL 2.9",
                 "Leaded the organisation team."
             ]
         }
@@ -111,10 +100,7 @@ const profileData = {
             "body": [
                 
                 
-                {
-                     "desc": "Secured <strong> Rank 4933</strong> in <b> Gate CS 2019</b> with <b> Score 496</b>",
-                     "date": "March 2019"
-                }
+               
             ]
         }
     ]
