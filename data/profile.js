@@ -94,8 +94,17 @@ const profileData = {
                     "date": "June-July, 2019"
                 }
             ]
-        }
-       
+       },
+        {
+            "title": "other",
+            "body": [
+                
+                
+                {
+                     "desc": "Secured <strong> Rank 4933</strong> in <b> Gate CS 2019</b> with <b> Score 496</b>",
+                     "date": "March 2019"
+                }
+
                 
                 
                
