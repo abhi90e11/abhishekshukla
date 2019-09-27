@@ -94,10 +94,8 @@ const profileData = {
                     "date": "June-July, 2019"
                 }
             ]
-        },
-        {
-            "title": "other",
-            "body": [
+        }
+       
                 
                 
                
