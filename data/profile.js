@@ -78,12 +78,18 @@ const profileData = {
     ],
     "events": [
         {
-            "title": "certifications",
+		 "title": "certifications",
             "body": [
-                {
+		     {
                     "desc": "a training program in <strong> in summer training </strong> from <b> BSNL,Kanpur </b>",
                     "date": "June-July, 2016"
                 },
+		    ]
+	},
+		{
+            "title": "certifications",
+            "body": [
+               
                 {
                     "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
                     "date": "December, 2017"
@@ -102,11 +108,11 @@ const profileData = {
                     "date": "November, 2008"
                 },
                 {
-                    "desc": "Secured<strong> 3222 Rank </strong> in 11th <b> NSO </b>",
+                    "desc": "Secured<strong> 3222 Rank </strong> in 11th <b> National Science Olympiad </b>",
                     "date": "November, 2008"
                 },
                 {
-                     "desc": "Secured<strong> 3337 Rank </strong> in 4th <b> IMO </b>",
+                     "desc": "Secured<strong> 3337 Rank </strong> in 4th <b> International Mathematics Olympiad </b>",
                     "date": "December, 2010"
                 },
                 {
