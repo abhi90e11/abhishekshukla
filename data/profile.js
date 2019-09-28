@@ -83,7 +83,7 @@ const profileData = {
 		     {
                     "desc": "a training program in <strong> in summer training </strong> from <b> BSNL,Kanpur </b>",
                     "date": "June-July, 2016"
-                },
+                }
 		    ]
 	},
 		{
@@ -112,15 +112,15 @@ const profileData = {
                     "date": "December, 2010"
                 }
             ]
-        }
+        },
 	     {
 		 "title": "others",
             "body": [
 		     {
                    "desc": "Secured<strong> 5387 Rank </strong>in <strong> Gate2019 </strong>organized by <b> IIt delhi </b>",
                     "date": "March, 2019"
-                },
+                }
 		    ]
-	},
+	}
     ]
 }
