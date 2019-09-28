@@ -78,7 +78,7 @@ const profileData = {
     ],
     "events": [
         {
-		 "title": "certifications",
+		 "title": "training",
             "body": [
 		     {
                     "desc": "a training program in <strong> in summer training </strong> from <b> BSNL,Kanpur </b>",
@@ -93,33 +93,34 @@ const profileData = {
                 {
                     "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
                     "date": "December, 2017"
-                },
-                {
-                    "desc": "a online traning course in <strong> Responsive Web Design </strong> hosted by <b> freeCodeCamp </b>",
-                    "date": "June-July, 2019"
                 }
             ]
        },
         {
-            "title": "others",
+            "title": "achievements",
             "body": [
 		    {
                     "desc": "Secured<strong> 1st Rank </strong> 1200mtrs race organized by <b> School </b>",
                     "date": "November, 2008"
                 },
                 {
-                    "desc": "Secured<strong> 3222 Rank </strong> in 11th <b> National Science Olympiad </b>",
+                    "desc": "Secured<strong> 3222 Rank </strong>with <strong>93.42 percintile score</strong> in 11th <b> National Science Olympiad </b>",
                     "date": "November, 2008"
                 },
                 {
-                     "desc": "Secured<strong> 3337 Rank </strong> in 4th <b> International Mathematics Olympiad </b>",
+                     "desc": "Secured<strong> 3337 Rank </strong>with <strong>92.52 percintile score</strong> in 4th <b> International Mathematics Olympiad </b>",
                     "date": "December, 2010"
-                },
-                {
-                    "desc": "a online traning course in <strong> Responsive Web Design </strong> hosted by <b> freeCodeCamp </b>",
-                    "date": "June-July, 2019"
                 }
             ]
         }
+	     {
+		 "title": "others",
+            "body": [
+		     {
+                   "desc": "Secured<strong> 5387 Rank </strong>in <strong> Gate2019 </strong>organized by <b> IIt delhi </b>",
+                    "date": "March, 2019"
+                },
+		    ]
+	},
     ]
 }
