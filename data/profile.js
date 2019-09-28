@@ -81,8 +81,8 @@ const profileData = {
             "title": "certifications",
             "body": [
                 {
-                    "desc": "a three months course in<strong> Core Java </strong> from <b> S.K.Infotech,Haridwar </b>",
-                    "date": "Feb-April, 2016"
+                    "desc": "a training program in <strong> in summer training </strong> from <b> BSNL,Kanpur </b>",
+                    "date": "June-July, 2016"
                 },
                 {
                     "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
@@ -97,13 +97,17 @@ const profileData = {
         {
             "title": "others",
             "body": [
-                {
-                    "desc": "a three months course in<strong> Core Java </strong> from <b> S.K.Infotech,Haridwar </b>",
-                    "date": "Feb-April, 2016"
+		    {
+                    "desc": "Secured<strong> 1st Rank </strong> 1200mtrs race organized by <b> School </b>",
+                    "date": "November, 2008"
                 },
                 {
-                    "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
-                    "date": "December, 2017"
+                    "desc": "Secured<strong> 3222 Rank </strong> in 11th <b> NSO </b>",
+                    "date": "November, 2008"
+                },
+                {
+                     "desc": "Secured<strong> 3337 Rank </strong> in 4th <b> IMO </b>",
+                    "date": "December, 2010"
                 },
                 {
                     "desc": "a online traning course in <strong> Responsive Web Design </strong> hosted by <b> freeCodeCamp </b>",
