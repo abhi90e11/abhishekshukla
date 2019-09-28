@@ -96,18 +96,20 @@ const profileData = {
             ]
        },
         {
-            "title": "other",
+            "title": "others",
             "body": [
-                
-                
                 {
-                     "desc": "Secured <strong> Rank 4933</strong> in <b> Gate CS 2019</b> with <b> Score 496</b>",
-                     "date": "March 2019"
+                    "desc": "a three months course in<strong> Core Java </strong> from <b> S.K.Infotech,Haridwar </b>",
+                    "date": "Feb-April, 2016"
+                },
+                {
+                    "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
+                    "date": "December, 2017"
+                },
+                {
+                    "desc": "a online traning course in <strong> Responsive Web Design </strong> hosted by <b> freeCodeCamp </b>",
+                    "date": "June-July, 2019"
                 }
-
-                
-                
-               
             ]
         }
     ]
