@@ -63,8 +63,7 @@ const profileData = {
             	"duration": "January , 2018 - April 2018",
 		"link": "https://github.com/abhi90e11/major-project.git",			
             	"desc": "A IOT based Robot Car which can be controlled Google Assistant and Web Pages"
-        	},
-		{
+        	}
             	
     ],
     "experiences": [
