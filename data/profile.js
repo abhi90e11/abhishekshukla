@@ -81,7 +81,7 @@ const profileData = {
 		 "title": "training",
             "body": [
 		     {
-                    "desc": "a training program in <strong> in summer training </strong> from <b> BSNL,Kanpur </b>",
+                    "desc": "a training program in <strong> summer training </strong> from <b> BSNL,Kanpur </b>",
                     "date": "June-July, 2016"
                 },
 		     {
