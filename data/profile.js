@@ -83,7 +83,7 @@ const profileData = {
 		     {
                     "desc": "a training program in <strong> in summer training </strong> from <b> BSNL,Kanpur </b>",
                     "date": "June-July, 2016"
-                }
+                },
 		     {
                     "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
                     "date": "December, 2017"
