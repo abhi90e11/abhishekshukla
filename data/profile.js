@@ -38,7 +38,7 @@ const profileData = {
             "graph": "false",
             "category": "Programming Languages",
             "topics": [
-                "C", "Arduino","Python","C++","Java"
+                "C","C++", "Arduino","Java"
             ]
         },
         {
@@ -52,7 +52,7 @@ const profileData = {
             "graph": "false",
             "category": "Frameworks / Libraries",
             "topics": [
-                "Chatbot-Development","IFTTT-Implementation"
+                "Chatbot-Development"
             ]
         }
     ],
@@ -71,7 +71,7 @@ const profileData = {
             "desc": "<b>Head Organizer </b> of a event at  <a target='_blank' href='https://www.jnanagni.in'> <strong> Jnanagni'18 </strong> </a>",
             "date": "March 2018",
             "details": [
-                "Organised the event GPL 2.9",
+                "Organised the event GPL 2.0",
                 "Leaded the organisation team."
             ]
         }
@@ -84,17 +84,12 @@ const profileData = {
                     "desc": "a training program in <strong> in summer training </strong> from <b> BSNL,Kanpur </b>",
                     "date": "June-July, 2016"
                 }
-		    ]
-	},
-		{
-            "title": "certifications",
-            "body": [
-               
-                {
+		     {
                     "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
                     "date": "December, 2017"
                 }
-            ]
+		    ]
+	
        },
         {
             "title": "achievements",
